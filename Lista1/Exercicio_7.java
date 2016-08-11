@@ -21,9 +21,6 @@ class Exercicio7{
 			System.out.print((x == 1)? "\n" : " > " );
 		}while (x != 1);
 		
-		
-					
-		
 	}
 
 }
